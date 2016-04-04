@@ -1,0 +1,15 @@
+{
+  "name": "header-ms",
+  "version": "1.0.0",
+  "description": "Free Code Camp Proj",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joe Hill",
+  "license": "ISC",
+  "dependencies": {
+  	"express": "^4.13.3",
+  	"express-useragent": "0.2.4"
+  }
+}
